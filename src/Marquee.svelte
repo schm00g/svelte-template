@@ -60,4 +60,6 @@
             transform: translateX(-100%);
         }
     }
+
+    /* https://reneroth.xyz/marquees-in-css/ */
 </style>
